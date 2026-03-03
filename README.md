@@ -2,7 +2,7 @@
 
 # Data Analysis: Eniac’s Discount Strategy Evaluation
 
-This project analyses the effectiveness of Eniac's current discounting model. By evaluating the relationship between discount percentages, order volume, and seasonal revenue peaks (Black Friday & Christmas), this study identifies a "Sweet Spot" for maximizing revenue without sacrificing brand value.
+This project analyses the effectiveness of Eniac's current discounting model. By evaluating the relationship between discount percentages, order volume, and seasonal revenue peaks (Black Friday & Christmas), this study identifies a "Sweet Spot" for maximising revenue without sacrificing brand value.
 
 ⚠️[! CAUTION !]⚠️
 
