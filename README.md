@@ -2,11 +2,11 @@
 
 # Data Analysis: Eniac’s Discount Strategy Evaluation
 
-This project analyzes the effectiveness of Eniac's current discounting model. By evaluating the relationship between discount percentages, order volume, and seasonal revenue peaks (Black Friday & Christmas), this study identifies a "Sweet Spot" for maximizing revenue without sacrificing brand value.
+This project analyses the effectiveness of Eniac's current discounting model. By evaluating the relationship between discount percentages, order volume, and seasonal revenue peaks (Black Friday & Christmas), this study identifies a "Sweet Spot" for maximizing revenue without sacrificing brand value.
 
 ⚠️[! CAUTION !]⚠️
 
-Data Quality Warning: During the initial cleaning phase, it was determined that over 80% of the original dataset was corrupted or contained null values. The following insights were derived from the remaining validated data. Consequently, significant focus was placed on identifying necessary database optimizations to prevent future data loss.
+Data Quality Warning: During the initial cleaning phase, it was determined that over 80% of the original dataset was corrupted or contained null values. The following insights were derived from the remaining validated data. Consequently, significant focus was placed on identifying necessary database optimisations to prevent future data loss.
 
 ## 📋 Executive Summary
 
@@ -18,7 +18,7 @@ The primary recommendation of this analysis is to **adopt a targeted discount st
 
 ### 1. The 20% "Sweet Spot"
 
-Data visualization of completed orders reveals that the highest volume and strongest revenue are achieved at a specific discount level.
+Data visualisation of completed orders reveals that the highest volume and strongest revenue are achieved at a specific discount level.
 
 * **Peak Performance:** 20% discounts generated the highest number of completed orders (875 orders).
 
@@ -70,12 +70,12 @@ Product categories show vastly different median prices, suggesting that a "one s
 
 ## 🛠 Proposed Data Improvements
 
-To enhance future analysis, the project recommends several database optimizations:
+To enhance future analysis, the project recommends several database optimisations:
 
-* **Database Normalization:** Clean up SKUs and remove redundant/useless columns.
+* **Database Normalisation:** Clean up SKUs and remove redundant/useless columns.
 
 
-* **Product Categorization:** Implement a 2-level taxonomy and a clear rule hierarchy to avoid overlapping categories.
+* **Product Categorisation:** Implement a 2-level taxonomy and a clear rule hierarchy to avoid overlapping categories.
 
 
 * **Data Integrity:** Fix inconsistent naming conventions and date/currency formats.
