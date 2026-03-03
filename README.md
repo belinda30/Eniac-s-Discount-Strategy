@@ -5,6 +5,7 @@
 This project analyzes the effectiveness of Eniac's current discounting model. By evaluating the relationship between discount percentages, order volume, and seasonal revenue peaks (Black Friday & Christmas), this study identifies a "Sweet Spot" for maximizing revenue without sacrificing brand value.
 
 ⚠️[!CAUTION]⚠️
+
 Data Quality Warning: During the initial cleaning phase, it was determined that over 80% of the original dataset was corrupted or contained null values. The following insights were derived from the remaining validated data. Consequently, significant focus was placed on identifying necessary database optimizations to prevent future data loss.
 
 ## 📋 Executive Summary
